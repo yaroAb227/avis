@@ -1,0 +1,16 @@
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/SpringSecurityApplication.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/TypeRole.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/controller/AvisController.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/controller/UserController.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/entity/Avis.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/entity/Role.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/entity/User.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/entity/Validation.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/repository/AvisRepository.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/repository/UserRepository.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/repository/ValidationRepository.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/security/ConfigurationSecurityApplication.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/service/AvisService.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/service/NotificationService.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/service/UserService.java
+/Users/exodys/DevCenter/Formation/spring/security/avis/src/main/java/tech/codus/springSecurity/service/ValidationService.java
